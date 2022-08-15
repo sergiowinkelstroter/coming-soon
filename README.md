@@ -10,3 +10,7 @@ Página de coming soon para o lançamento de um site, produto ou serviço, e na 
 
 - ReactJS
 - TailwindCSS
+
+## 🌐 Link
+
+Você pode acessar o site hospedado na internet através [desse link](https://coming-soon-cyan-theta.vercel.app/).
